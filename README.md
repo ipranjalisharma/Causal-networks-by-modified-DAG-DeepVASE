@@ -1,6 +1,6 @@
 # DAG-deepVASE RNA — Causal Gene Regulatory Network Pipeline
 
-A genome-wide causal network inference pipeline for bulk RNA-seq data, built on top of [DAG-deepVASE](https://github.com/orzuk/dag-deepvase). It combines MB-LASSO skeleton learning, DNN knockoff selection, STRING PPI filtering, and Degenerate Gaussian Score edge orientation to produce a directed acyclic gene regulatory network from expression data.
+A genome-wide causal network inference pipeline for bulk RNA-seq data, built on top of [DAG-deepVASE](https://github.com/ZhenjiangFan/DAG-deepVASE). It combines MB-LASSO skeleton learning, DNN knockoff selection, STRING PPI filtering, and Degenerate Gaussian Score edge orientation to produce a directed acyclic gene regulatory network from expression data.
 
 ---
 
