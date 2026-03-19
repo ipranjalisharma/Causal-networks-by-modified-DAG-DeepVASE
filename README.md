@@ -55,7 +55,7 @@ Takes the causal matrix and runs the full DAG-deepVASE pipeline, producing a dir
 
 ### Operating system
 
-Linux (Ubuntu 20.04+ recommended). macOS may work for CPU-only runs but is not tested.
+Linux (Ubuntu 20.04+ recommended). 
 
 ### Python
 
@@ -88,14 +88,14 @@ cupy-cuda12x   # CUDA 12.x
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/dag-deepvase-rna.git
+git clone https://github.com/ipranjalisharma/dag-deepvase-rna.git
 cd dag-deepvase-rna
 ```
 
 ### 2. Clone the DAG-deepVASE repository
 
 ```bash
-git clone https://github.com/orzuk/dag-deepvase.git
+git clone https://github.com/ZhenjiangFan/DAG-deepVASE
 ```
 
 Note the path where you cloned it — you will need to set `DAG_DEEPVASE_PATH` in the config.
