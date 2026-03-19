@@ -92,10 +92,10 @@ git clone https://github.com/ipranjalisharma/dag-deepvase-rna.git
 cd dag-deepvase-rna
 ```
 
-### 2. Clone the DAG-deepVASE repository
+### 2. Get the DAG-deepVASE repository
 
 ```bash
-git clone https://github.com/ZhenjiangFan/DAG-deepVASE
+docker pull zhenjiangfan/dagdeepvase:latest
 ```
 
 Note the path where you cloned it — you will need to set `DAG_DEEPVASE_PATH` in the config.
