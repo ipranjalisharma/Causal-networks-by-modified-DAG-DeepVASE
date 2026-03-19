@@ -366,8 +366,8 @@ head -5 your_sample.tsv
 
 If you use this pipeline, please cite the original DAG-deepVASE paper and the underlying tools:
 
-- **DAG-deepVASE** — Orenstein Y. et al. *DAG-deepVASE: A Deep Learning Approach for Variable Selection and Causal Structure Learning* (please cite the original repository)
-- **Knockoff filter** — Candes E. et al. (2018). *Panning for Gold: Model-X Knockoffs for High-Dimensional Controlled Variable Selection.* JRSS-B, 80(3).
-- **LedoitWolf** — Ledoit O. & Wolf M. (2004). *A well-conditioned estimator for large-dimensional covariance matrices.* J. Multivariate Analysis, 88(2).
-- **STRING** — Szklarczyk D. et al. (2023). *The STRING database in 2023.* Nucleic Acids Research, 51(D1).
-- **mygene** — Wu C. et al. (2013). *BioGPS and MyGene.info: organizing online, gene-centric information.* Nucleic Acids Research, 41(D1).
+- **DAG-deepVASE** — Fan, Z., Kernan, K.F., Sriram, A., Benos, P.V., Canna, S.W., Carcillo, J.A., Kim, S. and Park, H.J., 2023. Deep neural networks with knockoff features identify nonlinear causal relations and estimate effect sizes in complex biological systems. GigaScience, 12, p.giad044.
+- **Knockoff filter** — Candes, E., Fan, Y., Janson, L. and Lv, J., 2018. Panning for gold:‘model-X’knockoffs for high dimensional controlled variable selection. Journal of the Royal Statistical Society Series B: Statistical Methodology, 80(3), pp.551-577.
+- **LedoitWolf** — Ledoit, O. and Wolf, M., 2004. A well-conditioned estimator for large-dimensional covariance matrices. Journal of multivariate analysis, 88(2), pp.365-411.
+- **STRING** — SSzklarczyk, D., Nastou, K., Koutrouli, M., Kirsch, R., Mehryary, F., Hachilif, R., Hu, D., Peluso, M.E., Huang, Q., Fang, T. and Doncheva, N.T., 2025. The STRING database in 2025: protein networks with directionality of regulation. Nucleic acids research, 53(D1), pp.D730-D737.
+- **mygene** — Wu, C., MacLeod, I. and Su, A.I., 2013. BioGPS and MyGene. info: organizing online, gene-centric information. Nucleic acids research, 41(D1), pp.D561-D565.
