@@ -88,8 +88,8 @@ cupy-cuda12x   # CUDA 12.x
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/ipranjalisharma/dag-deepvase-rna.git
-cd dag-deepvase-rna
+git clone https://github.com/ipranjalisharma/Causal-networks-by-modified-DAG-DeepVASE.git
+cd Causal-networks-by-modified-DAG-DeepVASE
 ```
 
 ### 2. Get the DAG-deepVASE repository
