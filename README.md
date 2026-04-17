@@ -3,7 +3,8 @@
 A genome-wide causal network inference pipeline for bulk RNA-seq data, built on top of [DAG-deepVASE](https://github.com/ZhenjiangFan/DAG-deepVASE). It combines MB-LASSO skeleton learning, DNN knockoff selection, STRING PPI filtering, and Degenerate Gaussian Score edge orientation to produce a directed acyclic gene regulatory network from expression data.
 
 ---
-
+<img width="2880" height="1620" alt="CTFBind_universal_NEW1_21" src="https://github.com/user-attachments/assets/d4a97391-a120-440f-bd74-2d1ddf66b20d" />
+---
 ## Table of Contents
 
 - [Overview](#overview)
